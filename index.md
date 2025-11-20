@@ -49,5 +49,5 @@ The extensive variability that exists in seeds is undeniable. Regarding external
 
 </hr>
 <div class="footer">
-    &copy; 2025 LUIS GERARDO PERALES TORRES
+ &amp;copy; 2025 <a href="https://gitluisg.github.io/">LUIS GERARDO PERALES TORRES</a>
 </div>
