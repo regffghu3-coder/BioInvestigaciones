@@ -6,15 +6,7 @@ Producción y tecnología de semillas
  
 <p>Producir semillas con características mejoradas, como resistencia a plagas, sequías o mayor valor nutricional, a través de técnicas como la ingeniería genética o el cultivo de tejidos.</p>
 <h2>INTRODUCCIÓN</h2>
-<ul>
-<li>Unordered lists, and:<ol>
-<li>One</li>
-<li>Two</li>
-<li>Three</li>
-</ol>
-</li>
-<li>More</li>
-</ul>
+<p>The term seed may refer to a stage in the life cycle of a flowering plant, but it also points us to the result of sexual reproduction; therefore, the seed plays a vital role not only in the life cycle of plants, but also in agriculture and commerce.</p>
 <blockquote>
 <p>Blockquote</p>
 </blockquote>
