@@ -1,8 +1,8 @@
  <center>
-    <h1>BioInvestigaciones
+    <h1>Producción de semillas por biotecnología
       </h1>
  </center>
-  <hr/>
+ 
    
 <h1 id="sample-markdown">Sample Markdown</h1>
 <p>This is some basic, sample markdown.</p>
