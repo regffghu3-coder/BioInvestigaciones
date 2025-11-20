@@ -29,6 +29,11 @@ This helps ensure their survival from one year to the next and from one place to
 * <strong>They contain the plants genetic codes.</strong>
 These codes ensure that species continue without major changes from one generation to another, and this allows new varieties to be developed, multiplied, and distributed. Varieties can be produced identical to the original type through certification schemes.
 
+## Variability in Seeds
+
+The extensive variability that exists in seeds is undeniable. Regarding external variation, it may occur in size, shape, color, and surface.
+
+
 <p>And <strong>bold</strong>, <em>italics</em>, and even <em>italics and later <strong>bold</strong></em>. Even <del>strikethrough</del>. <a href="https://markdowntohtml.com">A link</a> to somewhere.</p>
 <p>And code highlighting:</p>
 <pre><code class="lang-js"><span class="hljs-keyword">var</span> foo = <span class="hljs-string">'bar'</span>;
@@ -41,3 +46,8 @@ These codes ensure that species continue without major changes from one generati
 <p>Or an image of bears</p>
 <p><img src="http://placebear.com/200/200" alt="bears"></p>
 <p>The end ...</p>
+
+</hr>
+<div class="footer">
+    &copy; 2025 LUIS GERARDO PERALES TORRES
+</div>
