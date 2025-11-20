@@ -3,9 +3,7 @@
       </h1>
  </center>
  
-   
-<h1 id="sample-markdown">Sample Markdown</h1>
-<p>This is some basic, sample markdown.</p>
+<p>Producir semillas con características mejoradas, como resistencia a plagas, sequías o mayor valor nutricional, a través de técnicas como la ingeniería genética o el cultivo de tejidos.</p>
 <h2 id="second-heading">Second Heading</h2>
 <ul>
 <li>Unordered lists, and:<ol>
