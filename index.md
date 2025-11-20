@@ -23,6 +23,11 @@ This is what allows species to survive under severe drought or periods of intens
 * <strong> Small and resistant to handling. </strong>
 These characteristics allow seeds to be easily dispersed by wind, water, and animals, making it possible for plants to colonize new areas. Their easy handling facilitates transportation and allows their development in the most favorable regions, as well as their distribution to other agricultural areas.Their easy handling facilitates transportation and allows their development in the most favorable regions, as well as their distribution to other agricultural areas. Seeds contain an embryo with stored nutrients. The new plant that grows from the embryo is nourished by these reserves until it is large enough to produce its own food. Additionally, these reserves in seeds are used as a source of human food.
 
+* <strong> They can be produced in very large quantities. </strong>
+This helps ensure their survival from one year to the next and from one place to another.
+
+* <strong>They contain the plants genetic codes.</strong>
+These codes ensure that species continue without major changes from one generation to another, and this allows new varieties to be developed, multiplied, and distributed. Varieties can be produced identical to the original type through certification schemes.
 
 <p>And <strong>bold</strong>, <em>italics</em>, and even <em>italics and later <strong>bold</strong></em>. Even <del>strikethrough</del>. <a href="https://markdowntohtml.com">A link</a> to somewhere.</p>
 <p>And code highlighting:</p>
