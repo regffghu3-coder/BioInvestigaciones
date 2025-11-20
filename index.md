@@ -4,7 +4,7 @@
  </center>
  
 <p>Producir semillas con características mejoradas, como resistencia a plagas, sequías o mayor valor nutricional, a través de técnicas como la ingeniería genética o el cultivo de tejidos.</p>
-<h2 id="second-heading">Second Heading</h2>
+<h2>INTRODUCCIÓN</h2>
 <ul>
 <li>Unordered lists, and:<ol>
 <li>One</li>
