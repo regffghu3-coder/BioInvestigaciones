@@ -1,5 +1,5 @@
  <center>
-    <h1>Producción de semillas por biotecnología
+    <h1>Producción de semillas
       </h1>
  </center>
  
