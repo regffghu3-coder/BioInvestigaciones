@@ -1,0 +1,13 @@
+Producción y tecnología de semillas
+ <center>
+    <h1>Semillas</h1>
+ </center>
+ 
+<p>The end ...</p>
+
+</hr>
+
+<div class="footer">
+ &copy; 2025 <a href="https://gitluisg.github.io/">LUIS GERARDO PERALES TORRES</a>
+</div>
+
