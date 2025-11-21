@@ -36,7 +36,7 @@ The extensive variability that exists in seeds is undeniable. Regarding external
 <p><img src="http://placebear.com/200/200" alt="bears"></p>
 <p>The end ...</p>
 
-</hr>
+<hr>
 
 <div class="footer">
  &copy; 2025 <a href="https://gitluisg.github.io/">LUIS GERARDO PERALES TORRES</a>
