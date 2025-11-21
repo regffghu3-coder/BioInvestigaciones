@@ -17,7 +17,7 @@ Producción y tecnología de semillas
 Considering the requirements of plants and the needs of humans, seeds have certain important characteristics:
 </p>
 
-* <strong> Resistance to unfavorable conditions. </strong>
+* <strong> <a href="//BioInvestigaciones/parte2.html"> Resistance to unfavorable conditions.</a> </strong>
 This is what allows species to survive under severe drought or periods of intense cold, which would kill the plant itself. Seeds can be stored during winter or any other unfavorable season and be used when conditions become appropriate.
 
 * <strong> Small and resistant to handling. </strong>
