@@ -33,21 +33,11 @@ These codes ensure that species continue without major changes from one generati
 
 The extensive variability that exists in seeds is undeniable. Regarding external variation, it may occur in size, shape, color, and surface.
 
-
-<p>And <strong>bold</strong>, <em>italics</em>, and even <em>italics and later <strong>bold</strong></em>. Even <del>strikethrough</del>. <a href="https://markdowntohtml.com">A link</a> to somewhere.</p>
-<p>And code highlighting:</p>
-<pre><code class="lang-js"><span class="hljs-keyword">var</span> foo = <span class="hljs-string">'bar'</span>;
-
-<span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">baz</span><span class="hljs-params">(s)</span> </span>{
-   <span class="hljs-keyword">return</span> foo + <span class="hljs-string">':'</span> + s;
-}
-</code></pre>
-<p>Or inline code like <code>var foo = &#39;bar&#39;;</code>.</p>
-<p>Or an image of bears</p>
 <p><img src="http://placebear.com/200/200" alt="bears"></p>
 <p>The end ...</p>
 
 </hr>
+
 <div class="footer">
  &copy; 2025 <a href="https://gitluisg.github.io/">LUIS GERARDO PERALES TORRES</a>
 </div>
